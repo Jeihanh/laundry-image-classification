@@ -8,3 +8,10 @@ This project aims to develop predictive models to determine the optimal washing 
 
 - **Image Dataset**: [Image Dataset on Google Drive](https://drive.google.com/drive/folders/1DpVUTDz7RdnFN_ymAyHDiNQIxpGUW8bd)
 - **CSV Labeled Dataset**: [CSV Labeled Dataset on Google Drive](https://drive.google.com/file/d/1s2VriletbtqPGXX2yTUl_oysFsCwj2aU/view)
+
+## Installation
+
+To set up this project, ensure you have Python 3.6 or newer. The dependencies can be installed via pip:
+
+```bash
+pip install -r requirements.txt
