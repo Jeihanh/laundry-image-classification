@@ -11,7 +11,15 @@ This project aims to develop predictive models to determine the optimal washing 
 
 ## Installation
 
-To set up this project, ensure you have Python 3.6 or newer. The dependencies can be installed via pip:
+To run this project, you will need Python 3.6 or higher and the following packages:
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+- OpenCV
+- Pillow
+
+You can install the necessary packages using pip:
 
 ```bash
-pip install -r requirements.txt
+pip install tensorflow keras pandas numpy opencv-python pillow
